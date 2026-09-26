@@ -31,7 +31,7 @@
 
 ```bash
 claude mcp add --transport http --scope user whimsical https://mcp.whimsical.com/mcp
-git clone https://github.com/kossbarss/marketing-strategi /tmp/ms
+git clone https://github.com/Kossbarss/marketing-strategi /tmp/ms
 mkdir -p ~/.claude/skills ~/.claude/agents
 cp -r /tmp/ms/.claude/skills/whimsical ~/.claude/skills/
 cp /tmp/ms/.claude/agents/whimsical-*.md ~/.claude/agents/
